@@ -23,9 +23,9 @@ import re
 
 
 nbviewer = 'http://nbviewer.ipython.org/urls'
-repo = 'bitbucket.org/canyonsubc/NEPTUNE_data/raw/tip'
+repo = 'bitbucket.org/canyonsubc/neptune_data/raw/tip'
 repo_dir = ''
-url = os.path.join(nbviewer, repo)
+url = os.path.join(nbviewer, repo,repo_dir)
 title_pattern = re.compile('#{1,6} ?')
 readme = """The IPython Notebooks in this directory are made by Karina for
 quick sharing of results.
