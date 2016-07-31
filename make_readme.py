@@ -27,7 +27,7 @@ repo = 'bitbucket.org/salishsea/NEPTUNE_data/raw/tip'
 repo_dir = 'notebooks'
 url = os.path.join(nbviewer, repo, repo_dir)
 title_pattern = re.compile('#{1,6} ?')
-readme = """The IPython Notebooks in this directory are made by Ben for
+readme = """The IPython Notebooks in this directory are made by Karina for
 quick sharing of results.
 
 The links below are to static renderings of the notebooks via
