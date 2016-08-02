@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[NEPTUNE_adcp_Hovmoller_diagram.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/neptune_data/raw/tip//NEPTUNE_adcp_Hovmoller_diagram.ipynb)  
+    
+    **Hovmöller diagram of upper slope ADCP**  
+
 * ##[NEPTUNE_adcp_subsample_and_filter.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/neptune_data/raw/tip//NEPTUNE_adcp_subsample_and_filter.ipynb)  
     
     **Try out pandas subsampling and Doodson filter**  
